@@ -3,5 +3,7 @@ Version: 1.0.0
 Date: 2026-07-14
   Features:
     - Factorissimo 3: Put borehole pump into extraction-machine subgroup.
+    - Quantum Fabricator: Make early digitizing chests the default.
   Compatibility:
     - Add tweaks for Factorissimo 3 (see above).
+    - Add tweaks for Quantum Fabricator (see above).

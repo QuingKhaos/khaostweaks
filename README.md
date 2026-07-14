@@ -13,6 +13,7 @@ in the mod startup settings.
 ## Tweaked mods
 
 - [Factorissimo 3](https://mods.factorio.com/mod/factorissimo-2-notnotmelon)
+- [Quantum Fabricator](https://mods.factorio.com/mod/quantum-fabricator)
 
 If you want to see another mod tweaked, please open a discussion thread on the mod portal, or an issue on GitHub, or join
 the Discord server and let me know.

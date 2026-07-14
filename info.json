@@ -11,7 +11,8 @@
 
     "khaoslib >= 1.15.1",
 
-    "? factorissimo-2-notnotmelon >= 3.11.19"
+    "? factorissimo-2-notnotmelon >= 3.11.19",
+    "? quantum-fabricator >= 2.12.2"
   ],
   "package": {
     "ignore": [
