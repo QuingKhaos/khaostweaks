@@ -1,3 +1,7 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2026-07-14
+  Features:
+    - Factorissimo 3: Put borehole pump into extraction-machine subgroup.
+  Compatibility:
+    - Add tweaks for Factorissimo 3 (see above).
