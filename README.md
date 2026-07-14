@@ -7,7 +7,7 @@
 
 # QuingKhaos' Collection of Tweaks
 
-A growing collection of various tweaks to a diverse set of mods.  If you don't like a specific tweak, each one can be disabled
+A growing collection of various tweaks to a diverse set of mods.  If you don't like a specific tweak, most can be disabled
 in the mod startup settings.
 
 ## Tweaked mods
