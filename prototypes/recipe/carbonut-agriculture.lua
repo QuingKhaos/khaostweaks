@@ -1,7 +1,7 @@
 local khaoslib_recipe = require("__khaoslib__.recipe")
 
 if mods["carbonut_agriculture"] then
-  khaoslib_recipe:load {
+  local carbonut_spoilage_recipe = khaoslib_recipe:load {
     type = "recipe",
     name = "carbonut-spoilage",
     order = "b[agriculture]-a[carbonut]c",
@@ -11,7 +11,7 @@ if mods["carbonut_agriculture"] then
     allow_productivity = true,
     allow_decomposition = false,
     energy_required = 1.6,
-  } :set_categories {mods["alloy-smelting"] and "kiln-smelting" or "smelting"}
+  } :set_categories {"smelting"}
     :set_icons {
       {icon = "__carbonut_agriculture__/graphics/carbonut.png", icon_size = 64, shift = {-12, -12}, scale = 0.4},
       {icon = "__space-age__/graphics/icons/spoilage.png", draw_background = true},
@@ -23,5 +23,12 @@ if mods["carbonut_agriculture"] then
       {type = "item", name = "spoilage", amount = 1},
     }
     :add_unlock("carbonut-agriculture")
-    :commit()
+
+  if mods["alloy-smelting"] then
+    if settings.startup["khaostweaks-carbonut-agriculture-alloy-smelting-carbonut-spoilage"].value then
+      carbonut_spoilage_recipe:set_categories {"kiln-smelting"}
+    end
+  end
+
+  carbonut_spoilage_recipe:commit()
 end

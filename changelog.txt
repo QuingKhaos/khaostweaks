@@ -1,6 +1,8 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.4.0
 Date: 2026-07-15
+  Changes:
+    - Carbonut Agriculture: Make recipe category for spoilage from Carbonut configurable.
   Features:
     - Burner Biochamber: Add custom technology to unlock the Burner Biochamber with production and agricultural science packs (configurable).
   Compatibility:
