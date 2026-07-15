@@ -17,6 +17,7 @@ or [Bio Processing Group](https://mods.factorio.com/mod/bioprocessing-tab) insta
 
 If the changelog doesn't mention a specific tweak for a mod, it means that the tweak is just sorting things.
 
+- [Burner Biochamber](https://mods.factorio.com/mod/burnerBiochamber)
 - [Carbonut Agriculture](https://mods.factorio.com/mod/carbonut_agriculture)
 - [EM Holmium Charging](https://mods.factorio.com/mod/em-holmium-charging)
 - [Factorissimo 3](https://mods.factorio.com/mod/factorissimo-2-notnotmelon)

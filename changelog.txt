@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.4.0
+Date: 2026-07-15
+  Features:
+    - Burner Biochamber: Add custom technology to unlock the Burner Biochamber with production and agricultural science packs (configurable).
+  Compatibility:
+    - Add tweaks for Burner Biochamber.
+---------------------------------------------------------------------------------------------------
 Version: 1.3.0
 Date: 2026-07-15
   Compatibility:
