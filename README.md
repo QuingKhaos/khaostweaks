@@ -15,6 +15,8 @@ installed, stuff will get sorted into the right categories.
 
 ## Tweaked mods
 
+If the changelog doesn't mention a specific tweak for a mod, it means that the tweak is just sorting things.
+
 - [Carbonut Agriculture](https://mods.factorio.com/mod/carbonut_agriculture)
 - [EM Holmium Charging](https://mods.factorio.com/mod/em-holmium-charging)
 - [Factorissimo 3](https://mods.factorio.com/mod/factorissimo-2-notnotmelon)
@@ -23,6 +25,7 @@ installed, stuff will get sorted into the right categories.
 - [Quantum Fabricator](https://mods.factorio.com/mod/quantum-fabricator)
 - [Tungsten Expansion](https://mods.factorio.com/mod/tungsten-expansion)
 - [Wooden Aquilo: Seabloom Algaculture](https://mods.factorio.com/mod/aquilo-seabloom-algaculture)
+- [Wood Walls](https://mods.factorio.com/mod/Wood-Walls)
 
 If you want to see another mod tweaked, please open a discussion thread on the mod portal, or an issue on GitHub, or join
 the Discord server and let me know.
