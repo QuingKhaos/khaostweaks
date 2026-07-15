@@ -10,10 +10,12 @@
 A growing collection of various tweaks to a diverse set of mods.  If you don't like a specific tweak, most can be disabled
 in the mod startup settings.
 
-If you have [Ammo Group](https://mods.factorio.com/mod/AmmoGroup) installed, stuff will get sorted into the right categories.
+If you have [Ammo Group](https://mods.factorio.com/mod/AmmoGroup), or [Bio Processing Group](https://mods.factorio.com/mod/bioprocessing-tab)
+installed, stuff will get sorted into the right categories.
 
 ## Tweaked mods
 
+- [Carbonut Agriculture](https://mods.factorio.com/mod/carbonut_agriculture)
 - [EM Holmium Charging](https://mods.factorio.com/mod/em-holmium-charging)
 - [Factorissimo 3](https://mods.factorio.com/mod/factorissimo-2-notnotmelon)
 - [Mooncrete](https://mods.factorio.com/mod/mooncrete)

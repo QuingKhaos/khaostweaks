@@ -11,13 +11,16 @@
 
     "khaoslib >= 1.16.0",
 
+    "? carbonut_agriculture >= 0.4.0",
     "? em-holmium-charging >= 1.0.0",
     "? factorissimo-2-notnotmelon >= 3.11.19",
     "? mooncrete >= 1.0.3",
     "? quantum-fabricator >= 2.12.2",
     "? tungsten-expansion >= 1.0.2",
 
-    "? AmmoGroup >= 1.1.3"
+    "(?) alloy-smelting >= 0.6.1",
+    "? AmmoGroup >= 1.1.3",
+    "? bioprocessing-tab >= 1.5.0"
   ],
   "package": {
     "ignore": [
