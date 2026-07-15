@@ -1,4 +1,4 @@
-require("prototypes.recipe.carbonut-agriculture")
-require("prototypes.technology.burner-biochamber")
-require("prototypes.technology.mooncrete")
-require("prototypes.tweaks.tungsten-expansion")
+require("__khaostweaks__.prototypes.recipe.carbonut-agriculture")
+require("__khaostweaks__.prototypes.technology.burner-biochamber")
+require("__khaostweaks__.prototypes.technology.mooncrete")
+require("__khaostweaks__.prototypes.tweaks.tungsten-expansion")
