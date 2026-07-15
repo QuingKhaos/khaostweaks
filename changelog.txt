@@ -1,6 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2026-07-15
+  Features:
+    - EM Holmium Charging: Update prerequisites and science packs to note that it requires the foundry.
+  Compatibility:
+    - Add tweaks for EM Holmium Charging.
+---------------------------------------------------------------------------------------------------
 Version: 1.1.0
-Date: 2026-07-14
+Date: 2026-07-15
   Bugfixes:
     - Mooncrete: Create its own technology to unlock it, so it is available at the right time.
   Features:

@@ -14,6 +14,7 @@ If you have [Ammo Group](https://mods.factorio.com/mod/AmmoGroup) installed, stu
 
 ## Tweaked mods
 
+- [EM Holmium Charging](https://mods.factorio.com/mod/em-holmium-charging)
 - [Factorissimo 3](https://mods.factorio.com/mod/factorissimo-2-notnotmelon)
 - [Mooncrete](https://mods.factorio.com/mod/mooncrete)
 - [Quantum Fabricator](https://mods.factorio.com/mod/quantum-fabricator)
