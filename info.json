@@ -16,6 +16,7 @@
     "? em-holmium-charging >= 1.0.0",
     "? factorissimo-2-notnotmelon >= 3.11.19",
     "? gleba-juice >= 1.0.0",
+    "? lignumis >= 1.10.0",
     "? mooncrete >= 1.0.3",
     "? quantum-fabricator >= 2.12.2",
     "? tungsten-expansion >= 1.0.2",
@@ -23,6 +24,7 @@
 
     "(?) alloy-smelting >= 0.6.1",
     "? AmmoGroup >= 1.1.3",
+    "? barrel-stages >= 2.0.1",
     "? bioprocessing-tab >= 1.5.0"
   ],
   "package": {

@@ -3,6 +3,7 @@ Version: 1.3.0
 Date: 2026-07-15
   Compatibility:
     - Add tweaks for Gleba Juice.
+    - Add tweaks for Lignumis.
     - Add tweaks for Wood Walls.
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.0
