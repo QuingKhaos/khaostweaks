@@ -17,3 +17,15 @@ if mods["tungsten-expansion"] then
     order = "a[tweaks]-b[tungsten-expansion]-a[modify-tungsten-weaponry-technology]",
   } :commit()
 end
+
+if mods["aquilo-seabloom-algaculture"] then
+  if mods["alloy-smelting"] then
+    khaoslib_setting:load {
+      type = "bool-setting",
+      name = "khaostweaks-aquilo-seabloom-algaculture-alloy-smelting-seawilt-spoilage",
+      setting_type = "startup",
+      default_value = true,
+      order = "a[tweaks]-c[aquilo-seabloom-algaculture]-a[alloy-smelting]-a[seawilt-spoilage]",
+    } :commit()
+  end
+end

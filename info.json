@@ -11,6 +11,7 @@
 
     "khaoslib >= 1.16.0",
 
+    "? aquilo-seabloom-algaculture >= 0.4.4",
     "? carbonut_agriculture >= 0.4.0",
     "? em-holmium-charging >= 1.0.0",
     "? factorissimo-2-notnotmelon >= 3.11.19",

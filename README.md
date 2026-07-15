@@ -21,6 +21,7 @@ installed, stuff will get sorted into the right categories.
 - [Mooncrete](https://mods.factorio.com/mod/mooncrete)
 - [Quantum Fabricator](https://mods.factorio.com/mod/quantum-fabricator)
 - [Tungsten Expansion](https://mods.factorio.com/mod/tungsten-expansion)
+- [Wooden Aquilo: Seabloom Algaculture](https://mods.factorio.com/mod/aquilo-seabloom-algaculture)
 
 If you want to see another mod tweaked, please open a discussion thread on the mod portal, or an issue on GitHub, or join
 the Discord server and let me know.

@@ -1,3 +1,4 @@
+require("prototypes.tweaks.aquilo-seabloom-algaculture-final-fixes")
 require("prototypes.tweaks.carbonut-agriculture-final-fixes")
 require("prototypes.tweaks.em-holmium-charging-final-fixes")
 require("prototypes.tweaks.factorissimo-final-fixes")
