@@ -4,12 +4,12 @@
   "description": "A growing collection of various tweaks to a diverse set of mods. Configurable!",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
 
-    "khaoslib >= 1.16.0",
+    "khaoslib >= 1.17.0",
 
     "? aquilo-seabloom-algaculture >= 0.4.4",
     "? burnerBiochamber >= 1.0.6",
