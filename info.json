@@ -12,6 +12,7 @@
     "khaoslib >= 1.16.0",
 
     "? factorissimo-2-notnotmelon >= 3.11.19",
+    "? mooncrete >= 1.0.3",
     "? quantum-fabricator >= 2.12.2"
   ],
   "package": {
