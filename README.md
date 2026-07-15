@@ -18,6 +18,7 @@ installed, stuff will get sorted into the right categories.
 - [Carbonut Agriculture](https://mods.factorio.com/mod/carbonut_agriculture)
 - [EM Holmium Charging](https://mods.factorio.com/mod/em-holmium-charging)
 - [Factorissimo 3](https://mods.factorio.com/mod/factorissimo-2-notnotmelon)
+- [Gleba Juice](https://mods.factorio.com/mod/gleba-juice)
 - [Mooncrete](https://mods.factorio.com/mod/mooncrete)
 - [Quantum Fabricator](https://mods.factorio.com/mod/quantum-fabricator)
 - [Tungsten Expansion](https://mods.factorio.com/mod/tungsten-expansion)

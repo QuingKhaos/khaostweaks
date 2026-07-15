@@ -4,7 +4,7 @@
   "description": "A growing collection of various tweaks to a diverse set of mods. Configurable!",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
@@ -15,6 +15,7 @@
     "? carbonut_agriculture >= 0.4.0",
     "? em-holmium-charging >= 1.0.0",
     "? factorissimo-2-notnotmelon >= 3.11.19",
+    "? gleba-juice >= 1.0.0",
     "? mooncrete >= 1.0.3",
     "? quantum-fabricator >= 2.12.2",
     "? tungsten-expansion >= 1.0.2",
