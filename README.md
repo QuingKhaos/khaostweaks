@@ -10,11 +10,14 @@
 A growing collection of various tweaks to a diverse set of mods.  If you don't like a specific tweak, most can be disabled
 in the mod startup settings.
 
+If you have [Ammo Group](https://mods.factorio.com/mod/AmmoGroup) installed, stuff will get sorted into the right categories.
+
 ## Tweaked mods
 
 - [Factorissimo 3](https://mods.factorio.com/mod/factorissimo-2-notnotmelon)
 - [Mooncrete](https://mods.factorio.com/mod/mooncrete)
 - [Quantum Fabricator](https://mods.factorio.com/mod/quantum-fabricator)
+- [Tungsten Expansion](https://mods.factorio.com/mod/tungsten-expansion)
 
 If you want to see another mod tweaked, please open a discussion thread on the mod portal, or an issue on GitHub, or join
 the Discord server and let me know.

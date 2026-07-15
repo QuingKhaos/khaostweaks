@@ -13,7 +13,10 @@
 
     "? factorissimo-2-notnotmelon >= 3.11.19",
     "? mooncrete >= 1.0.3",
-    "? quantum-fabricator >= 2.12.2"
+    "? quantum-fabricator >= 2.12.2",
+    "? tungsten-expansion >= 1.0.2",
+
+    "? AmmoGroup >= 1.1.3"
   ],
   "package": {
     "ignore": [

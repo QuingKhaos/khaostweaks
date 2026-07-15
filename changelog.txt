@@ -5,8 +5,10 @@ Date: 2026-07-14
     - Mooncrete: Create its own technology to unlock it, so it is available at the right time.
   Features:
     - Vanilla: Make hazard concrete and refined hazard concrete slow your movement, same as in Pyanodons (configurable).
+    - Tungsten Expansion: Make Tungsten Weaponry technology require Metallurgic Science Pack (configurable).
   Compatibility:
     - Add tweaks for Mooncrete.
+    - Add tweaks for Tungsten Expansion.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2026-07-14
