@@ -11,7 +11,8 @@ A growing collection of various tweaks to a diverse set of mods.  If you don't l
 in the mod startup settings.
 
 If you have [Ammo Group](https://mods.factorio.com/mod/AmmoGroup), [Barrel Stages](https://mods.factorio.com/mod/barrel-stages),
-or [Bio Processing Group](https://mods.factorio.com/mod/bioprocessing-tab) installed, stuff will get sorted properly.
+[Bio Processing Group](https://mods.factorio.com/mod/bioprocessing-tab), or [Schall Transport Group](https://mods.factorio.com/mod/schall-transport-group)
+installed, stuff will get sorted properly.
 
 ## Tweaked mods
 
@@ -26,8 +27,9 @@ If the changelog doesn't mention a specific tweak for a mod, it means that the t
 - [Mooncrete](https://mods.factorio.com/mod/mooncrete)
 - [Quantum Fabricator](https://mods.factorio.com/mod/quantum-fabricator)
 - [Tungsten Expansion](https://mods.factorio.com/mod/tungsten-expansion)
-- [Wooden Aquilo: Seabloom Algaculture](https://mods.factorio.com/mod/aquilo-seabloom-algaculture)
 - [Wood Walls](https://mods.factorio.com/mod/Wood-Walls)
+- [Wooden Aquilo: Seabloom Algaculture](https://mods.factorio.com/mod/aquilo-seabloom-algaculture)
+- [Wooden Logistics](https://mods.factorio.com/mod/wood-logistics)
 
 If you want to see another mod tweaked, please open a discussion thread on the mod portal, or an issue on GitHub, or join
 the Discord server and let me know.
