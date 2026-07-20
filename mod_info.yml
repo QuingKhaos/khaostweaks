@@ -1,0 +1,16 @@
+mod_info:
+  title: "QuingKhaos' Collection of Tweaks"
+  summary: "A growing collection of various tweaks to a diverse set of mods. Configurable!"
+  description_file: README.md
+  attach_source_link: true
+  license: gnugplv3
+  category: tweaks
+  tags:
+    - planets
+    - logistics
+    - combat
+    - environment
+    - mining
+    - manufacturing
+    - storage
+    - cheats
